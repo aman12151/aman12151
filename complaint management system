@@ -1,0 +1,77 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About Us</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css">
+	<link rel="stylesheet" type="text/css" href="../cmscss/aboutus.css">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+
+	<link rel="apple-touch-icon" sizes="180x180" href="../images/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../images/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+
+
+	<link rel="stylesheet" href="aboutus.css">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap" rel="stylesheet">
+</head>	
+<body>
+
+	<header>
+		<a href="#" class="logo"><i class="ri-home-heart-fill"></i><span>CMS</span></a>
+
+		<ul class="navbar">
+			<li><a href="../cmshtml/signup.html" class="active">Home</a></li>
+			<li><a href="../cmshtml/aboutus.html">About Us</a></li>
+			<li><a href="../cmshtml/services.html">Services</a></li>
+			
+			<li><a href="../cmshtml/contact.html">Contact Us</a></li>
+		</ul>
+
+		<div class="main">
+			<a href="../cmshtml/login.html" class="user"><i class="ri-user-fill"></i>Sign In</a>
+			<a href="../cmshtml/signup.html">Register</a>
+			<div class="bx bx-menu" id="menu-icon"></div>
+		</div>
+	</header>
+
+	<!--js link--->
+	<script type="text/javascript" src="../cmsjs/script.js"></script>
+	<div class="section">
+		<div class="container">
+			<div class="content-section">
+				<div class="title">
+					<h1>About Us</h1>
+				</div>
+				<div class="content">
+					<h3>Ensure customer delight through end-to-end management of complaints from in-take to assessing risks, regulatory impact and submissions, quality investigation,
+						resolution, and continuous improvement
+						MAKE IT EASY FOR YOUR WORKFORCE TO HANDLE COMPLAINTS FROM INTAKE TO REGULATORY
+						SUBMISSIONS TO CUSTOMER RESOLUTION.</p>
+					<div class="button">
+						<a href="">Read More</a>
+					</div>
+				</div>
+				<div class="social">
+					<a href=""><i class="fab fa-facebook-f"></i></a>
+					<a href=""><i class="fab fa-twitter"></i></a>
+					<a href=""><i class="fab fa-instagram"></i></a>
+				</div>
+			</div>
+			<div class="image-section">
+				
+			</div>
+		</div>
+	</div>
+
+	
+</body>
+</html>
